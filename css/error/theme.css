@@ -1,0 +1,27 @@
+.main-place.purple {
+	background-color: #330433;
+	background-image: url('../../img/error/area-purple.jpg');
+	text-shadow: 0px 1px 5px #1f021f;
+	border-bottom-color: #1f021f;
+}
+
+.main-place.orange {
+	background-color: #8e3900;
+	background-image: url('../../img/error/area-orange.jpg');
+	text-shadow: 0px 1px 5px #5c2300;
+	border-bottom-color: #7b2f00;
+}
+
+.main-place.red {
+	background-color: #530000;
+	background-image: url('../../img/error/area-red.jpg');
+	text-shadow: 0px 1px 5px #3d0000;
+	border-bottom-color: #560000;
+}
+
+.main-place.green {
+	background-color: #00620c;
+	background-image: url('../../img/error/area-green.jpg');
+	text-shadow: 0px 1px 5px #002f06;
+	border-bottom-color: #00550b;
+}

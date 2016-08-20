@@ -2,6 +2,7 @@ img {
     border-radius: 4px;
     border: 1px solid #ddd;
     padding: 5px;
+    margin: 0.5em 0;
 }
 
 .subtext h1 {
@@ -10,7 +11,26 @@ img {
 }
 
 .subtext .select-page {
-    font-size: 1.25em;
+    font-size: 1.5em;
     display: block;
     margin: 0.75em 0;
+}
+
+.subtext .navigation {
+    font-size: 1.25em;
+}
+
+.subtext a.github-button {
+    background-color: #330433;
+    border: 1px solid #1f021f;
+    border-radius: 4px;
+    font-size: 1.25em;
+    color: #fff;
+    display: inline-block;
+    margin: 1em 0;
+    padding: 1em;
+}
+
+.subtext a.github-button:hover {
+    background-color: #4B114B;
 }
